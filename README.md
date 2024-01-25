@@ -1,4 +1,4 @@
-## Welocme to my Profile 👋
+## Welcome to my Profile 👋
 
 <!--
 **Kenneton/Kenneton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 ## Programming Languages
 - Python
 - SQL
-- A bit of:
--   C
--   JavaScript
--   Solidity
+
  
 ## My hobbies
 - Basketball

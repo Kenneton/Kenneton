@@ -1,6 +1,5 @@
 ## Welcome to my Profile 👋
 
-
 ### About Me:
 * Aspiring Data Scientist
 * Business Management graduate
@@ -19,7 +18,7 @@ I'm currently working on:
 ### Technologies I Use:
 - Pandas & NumPy, Polars for large datasets
 - Jupyter Notebooks
-- Matplot & Seaborn
+- Matplotlib & Seaborn
 - Scikit-Learn, XGBoost
 - SQLite and MySQL
 - Google Looker Studio

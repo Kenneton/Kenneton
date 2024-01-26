@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 * Aspiring Data Scientist
 * Business Management graduate
 * Seeking to learn from experienced specialists and make impact through Data Analytics and Machine Learning
-* I'm currently working on:
-*  Loan Classifier for my studies at Turing College;
-*  compiling Euroleague Dataset for future analysis
+I'm currently working on:
+* Loan Classifier for my studies at Turing College;
+* Compiling a Euroleague Dataset for future analysis.
 
 
 ## Programming Languages

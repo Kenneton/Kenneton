@@ -1,5 +1,7 @@
 ## Welcome to my Profile 👋
 
+![Image](picture.webp)
+
 ### About Me:
 * Aspiring Data Scientist
 * Business Management graduate

@@ -8,7 +8,7 @@
 * Seeking to learn from experienced specialists and make impact through Data Analytics and Machine Learning
 
 I'm currently working on:
-* Loan Classifier for my studies at Turing College;
+* Deep Learning mushroom image classifier;
 * Compiling a Euroleague Dataset for future analysis.
 
 
@@ -21,7 +21,7 @@ I'm currently working on:
 - Pandas & NumPy, Polars for large datasets
 - Jupyter Notebooks
 - Matplotlib & Seaborn
-- Scikit-Learn, XGBoost
+- Scikit-Learn, LightGBM, PyTorch
 - SQLite and MySQL
 - Google Looker Studio
 

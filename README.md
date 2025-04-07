@@ -8,7 +8,7 @@
 * Seeking to advance in my field. Mostly interested in ML Engineering and Computer Vision
 
 I'm currently working on:
-* Deep Learning mushroom image classifier;
+* Regression forecast model
 * Automatic Job Market analysis, segment: Data Science positions in my country.
 
 

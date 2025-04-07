@@ -5,11 +5,11 @@
 ### About Me:
 * Aspiring Data Scientist
 * Business Management graduate
-* Seeking to learn from experienced specialists and make impact through Data Analytics and Machine Learning
+* Seeking to advance in my field. Mostly interested in ML Engineering and Computer Vision
 
 I'm currently working on:
 * Deep Learning mushroom image classifier;
-* Compiling a Euroleague Dataset for future analysis.
+* Automatic Job Market analysis, segment: Data Science positions in my country.
 
 
 ### Programming Languages
@@ -18,12 +18,10 @@ I'm currently working on:
 - a little bit of: C, JavaScript, Solidity
 
 ### Technologies I Use:
-- Pandas & NumPy, Polars for large datasets
-- Jupyter Notebooks
+- Pandas & NumPy, PySpark or Polars for large datasets
 - Matplotlib & Seaborn
 - Scikit-Learn, LightGBM, PyTorch
 - SQLite and MySQL
-- Google Looker Studio
 
  
 ### My Hobbies:
